@@ -4,11 +4,11 @@ Solution to increase users' disaster literacy<br>
 <strong>SafeLine</strong>
 </p>
 
-# SafeLine-Server
+# SafeLine
 
-> This `README` is written in English, with a [Korean version(한국어)](#safeline-server-한국어-해설) below.
+> This `README` is written in English, with a [Korean version(한국어)](#safeline-한국어-해설) below.
 
-This organisation contains the SafeLine project.  
+This organization contains the SafeLine project.  
 This document contains a brief description of the project and its implementation (configuration).
 
 ## 📖 Overview
@@ -32,6 +32,8 @@ Please refer to the two repositories below.
 
 ## 💻 Products/Platforms Used
 
+![Architecture](https://github.com/SafeLine-KU/.github/blob/main/resources/architecture.png?raw=true)
+
 - `Flutter`
 - `Google Maps`
 - `Google Cloud Platform`
@@ -45,7 +47,7 @@ Please refer to the two repositories below.
 
 ---
 
-# SafeLine-Server 한국어 해설
+# SafeLine 한국어 해설
 
 이 Organization은 SafeLine 프로젝트를 담고 있습니다.  
 본 문서는 프로젝트에 대한 간단한 설명과 실행(구성)에 관한 내용을 담고 있습니다.  
@@ -70,6 +72,8 @@ Please refer to the two repositories below.
 - [🔗 `Server` Repository](https://github.com/SafeLine-KU/SafeLine-Server)
 
 ## 💻 사용한 제품/플랫폼  
+
+![Architecture](https://github.com/SafeLine-KU/.github/blob/main/resources/architecture.png?raw=true)
 
 - `Flutter`
 - `Google Maps`
